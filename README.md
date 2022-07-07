@@ -1,4 +1,4 @@
 # DLMIA
-orCaScore challenge".
+orCaScore challenge
 
 Run the code using main.ipynb
