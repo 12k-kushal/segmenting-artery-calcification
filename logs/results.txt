@@ -1,0 +1,21 @@
+Training/CE_Loss tensor(0.2296, device='cuda:0', grad_fn=<DivBackward0>) 1
+Training/Dice_Loss tensor(0.0673, device='cuda:0') 1
+Training/Total_Loss tensor(0.2969, device='cuda:0', grad_fn=<DivBackward0>) 1
+Training/CE_Loss tensor(0.2187, device='cuda:0', grad_fn=<DivBackward0>) 2
+Training/Dice_Loss tensor(0.0633, device='cuda:0') 2
+Training/Total_Loss tensor(0.2820, device='cuda:0', grad_fn=<DivBackward0>) 2
+Training/CE_Loss tensor(0.2032, device='cuda:0', grad_fn=<DivBackward0>) 3
+Training/Dice_Loss tensor(0.0983, device='cuda:0') 3
+Training/Total_Loss tensor(0.3015, device='cuda:0', grad_fn=<DivBackward0>) 3
+Training/CE_Loss tensor(0.1893, device='cuda:0', grad_fn=<DivBackward0>) 4
+Training/Dice_Loss tensor(0.1945, device='cuda:0') 4
+Training/Total_Loss tensor(0.3838, device='cuda:0', grad_fn=<DivBackward0>) 4
+Training/CE_Loss tensor(0.1516, device='cuda:0', grad_fn=<DivBackward0>) 5
+Training/Dice_Loss tensor(0.4241, device='cuda:0') 5
+Training/Total_Loss tensor(0.5758, device='cuda:0', grad_fn=<DivBackward0>) 5
+Training/CE_Loss tensor(0.0439, device='cuda:0', grad_fn=<DivBackward0>) 6
+Training/Dice_Loss tensor(0.5060, device='cuda:0') 6
+Training/Total_Loss tensor(0.5499, device='cuda:0', grad_fn=<DivBackward0>) 6
+Training/CE_Loss tensor(0.0279, device='cuda:0', grad_fn=<DivBackward0>) 7
+Training/Dice_Loss tensor(0.4633, device='cuda:0') 7
+Training/Total_Loss tensor(0.4912, device='cuda:0', grad_fn=<DivBackward0>) 7
